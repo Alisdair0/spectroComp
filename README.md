@@ -1,4 +1,4 @@
-# Spectrogram Component**
+# Spectrogram Component
 ## Created by Alisdair Chauvin*
 *May 5, 2026*
 
@@ -14,4 +14,7 @@ can be used in Logic specifically, and the VST3 version can be used in any other
 To use, set the input selection to a microphone that can hear adequate sound, and adjust sliders to your liking.
 Feel free to download and use as you'd like. Enjoy ;)
 
-Alisdair
+
+<img width="799" height="426" alt="Screenshot 2026-05-05 at 4 48 33 PM" src="https://github.com/user-attachments/assets/120290c8-23ec-45bb-9117-297060da3eb9" />
+
+
