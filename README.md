@@ -1,5 +1,5 @@
 # Spectrogram Component
-## Created by Alisdair Chauvin*
+## Created by Alisdair Chauvin
 *May 5, 2026*
 
 This is my first go at creating an audiovisualizer that can be used to analyze audio as well as create an appealing
